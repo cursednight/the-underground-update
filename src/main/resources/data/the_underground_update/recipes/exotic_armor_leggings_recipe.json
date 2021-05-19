@@ -1,0 +1,36 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:exotic_leather"
+    },
+    "1": {
+      "item": "the_underground_update:exotic_leather"
+    },
+    "2": {
+      "item": "the_underground_update:exotic_leather"
+    },
+    "3": {
+      "item": "the_underground_update:exotic_leather"
+    },
+    "5": {
+      "item": "the_underground_update:exotic_leather"
+    },
+    "6": {
+      "item": "the_underground_update:exotic_leather"
+    },
+    "8": {
+      "item": "the_underground_update:exotic_leather"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:exotic_armor_leggings",
+    "count": 1
+  }
+}

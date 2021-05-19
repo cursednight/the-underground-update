@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_underground_update:blocks/corporea_funnel_side",
+    "up": "the_underground_update:blocks/corporea_funnel_side",
+    "north": "the_underground_update:blocks/corporea_funnel_side",
+    "east": "the_underground_update:blocks/corporea_funnel_side",
+    "south": "the_underground_update:blocks/corporea_funnel_side",
+    "west": "the_underground_update:blocks/corporea_funnel_side",
+    "particle": "the_underground_update:blocks/corporea_funnel_side"
+  }
+}

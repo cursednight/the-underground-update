@@ -1,0 +1,32 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:corporea"
+    },
+    "1": {
+      "item": "the_underground_update:corporea"
+    },
+    "2": {
+      "item": "the_underground_update:corporea"
+    },
+    "3": {
+      "item": "the_underground_update:corporea"
+    },
+    "4": {
+      "item": "the_underground_update:corporea"
+    },
+    "5": {
+      "item": "the_underground_update:corporea"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:corporea_wall",
+    "count": 1
+  }
+}

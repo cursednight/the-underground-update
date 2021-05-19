@@ -1,0 +1,37 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:refined_ruby"
+    },
+    {
+      "item": "the_underground_update:rubys"
+    },
+    {
+      "item": "the_underground_update:refined_ruby"
+    },
+    {
+      "item": "the_underground_update:penguin_feather"
+    },
+    {
+      "item": "the_underground_update:admant"
+    },
+    {
+      "item": "the_underground_update:exotic_leather"
+    },
+    {
+      "item": "the_underground_update:club"
+    },
+    {
+      "item": "the_underground_update:crystal_of_death"
+    },
+    {
+      "item": "the_underground_update:mammoth_meat"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:monster_dna_combined",
+    "count": 1
+  }
+}

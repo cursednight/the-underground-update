@@ -1,0 +1,2630 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MallachiteIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_ingot"
+    },
+    {
+      "name": "MallachiteOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_ore"
+    },
+    {
+      "name": "MallachiteBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_block"
+    },
+    {
+      "name": "MallachiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_ore_block_recipe"
+    },
+    {
+      "name": "MallachiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_block_ore_recipe"
+    },
+    {
+      "name": "MallachiteOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_ore_smelting"
+    },
+    {
+      "name": "MallachitePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_pickaxe"
+    },
+    {
+      "name": "MallachiteAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_axe"
+    },
+    {
+      "name": "MallachiteSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_sword"
+    },
+    {
+      "name": "MallachiteShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_shovel"
+    },
+    {
+      "name": "MallachitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_pickaxe_recipe"
+    },
+    {
+      "name": "MallachiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_axe_recipe"
+    },
+    {
+      "name": "MallachiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_sword_recipe"
+    },
+    {
+      "name": "MallachiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_shovel_recipe"
+    },
+    {
+      "name": "MallachiteArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MallachiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_armor_helmet_recipe"
+    },
+    {
+      "name": "MallachiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_armor_body_recipe"
+    },
+    {
+      "name": "MallachiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_armor_leggings_recipe"
+    },
+    {
+      "name": "MallachiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite_armor_boots_recipe"
+    },
+    {
+      "name": "NetherMallachiteOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_mallachite_ore"
+    },
+    {
+      "name": "ShaleMallachiteOre",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_mallachite_ore"
+    },
+    {
+      "name": "MalachiteShard",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malachite_shard"
+    },
+    {
+      "name": "Mallachite",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallachite"
+    },
+    {
+      "name": "Shale",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale"
+    },
+    {
+      "name": "ShaleStairs",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_stairs"
+    },
+    {
+      "name": "ShaleWall",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_wall"
+    },
+    {
+      "name": "ShaleSlab",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_slab"
+    },
+    {
+      "name": "ShaleslabR",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shaleslab_r"
+    },
+    {
+      "name": "ShaleWallR",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_wall_r"
+    },
+    {
+      "name": "ShaleStairsR",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_stairs_r"
+    },
+    {
+      "name": "ChiseledShale",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_shale"
+    },
+    {
+      "name": "ChiseledShaleR",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_shale_r"
+    },
+    {
+      "name": "PolishedShale",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale"
+    },
+    {
+      "name": "PolishedShaleR",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_r"
+    },
+    {
+      "name": "ShaleBricks",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_bricks"
+    },
+    {
+      "name": "ShaleBricksR",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_bricks_r"
+    },
+    {
+      "name": "ShaleDiamond",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_diamond"
+    },
+    {
+      "name": "ShaleEmerald",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_emerald"
+    },
+    {
+      "name": "ShaleLapis",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_lapis"
+    },
+    {
+      "name": "ShaleCoal",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_coal"
+    },
+    {
+      "name": "ShaleIron",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_iron"
+    },
+    {
+      "name": "ShaleGold",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_gold"
+    },
+    {
+      "name": "ShaleRedstone",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_redstone"
+    },
+    {
+      "name": "BaseGoldSword",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_sword"
+    },
+    {
+      "name": "GoldMushroom",
+      "type": "plant",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_mushroom"
+    },
+    {
+      "name": "NetherDiamond",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_diamond"
+    },
+    {
+      "name": "NetherIron",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_iron"
+    },
+    {
+      "name": "NetherGold",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_gold"
+    },
+    {
+      "name": "UraniumIngot",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ingot"
+    },
+    {
+      "name": "UraniumOre",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore"
+    },
+    {
+      "name": "UraniumBlock",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block"
+    },
+    {
+      "name": "UraniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_block_recipe"
+    },
+    {
+      "name": "UraniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block_ore_recipe"
+    },
+    {
+      "name": "UraniumOreSmelting",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_smelting"
+    },
+    {
+      "name": "NuclearBombOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_bomb_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NuclearBombBlockDestroyedByExplosion",
+      "type": "procedure",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_bomb_block_destroyed_by_explosion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NuclearBomb",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_bomb"
+    },
+    {
+      "name": "NuclearBombR",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_bomb_r"
+    },
+    {
+      "name": "BaseGoldPickaxe",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_pickaxe"
+    },
+    {
+      "name": "BaseGoldAxe",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_axe"
+    },
+    {
+      "name": "BaseGoldShovel",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_shovel"
+    },
+    {
+      "name": "BaseGoldHoe",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_hoe"
+    },
+    {
+      "name": "BaseGoldPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_pickaxe_recipe"
+    },
+    {
+      "name": "BaseGoldAxeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_axe_recipe"
+    },
+    {
+      "name": "BaseGoldSwordRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_sword_recipe"
+    },
+    {
+      "name": "BaseGoldShovelRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_shovel_recipe"
+    },
+    {
+      "name": "BaseGoldHoeRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_hoe_recipe"
+    },
+    {
+      "name": "Amethyst",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst"
+    },
+    {
+      "name": "AmethystOre",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_ore"
+    },
+    {
+      "name": "AmethystBlock",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_block"
+    },
+    {
+      "name": "AmethystOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_ore_block_recipe"
+    },
+    {
+      "name": "AmethystBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_block_ore_recipe"
+    },
+    {
+      "name": "AmethystOreSmelting",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_ore_smelting"
+    },
+    {
+      "name": "GoldAmethystPickaxe",
+      "type": "tool",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_pickaxe"
+    },
+    {
+      "name": "GoldAmethystAxe",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_axe"
+    },
+    {
+      "name": "GoldAmethystSword",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_sword"
+    },
+    {
+      "name": "GoldAmethystShovel",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_shovel"
+    },
+    {
+      "name": "GoldAmethystHoe",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_hoe"
+    },
+    {
+      "name": "GoldAmethystPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_pickaxe_recipe"
+    },
+    {
+      "name": "GoldAmethystAxeRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_axe_recipe"
+    },
+    {
+      "name": "GoldAmethystSwordRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_sword_recipe"
+    },
+    {
+      "name": "GoldAmethystShovelRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_shovel_recipe"
+    },
+    {
+      "name": "GoldAmethystHoeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_hoe_recipe"
+    },
+    {
+      "name": "Rubys",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubys"
+    },
+    {
+      "name": "RubysOre",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubys_ore"
+    },
+    {
+      "name": "RubysBlock",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubys_block"
+    },
+    {
+      "name": "RubysOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubys_ore_block_recipe"
+    },
+    {
+      "name": "RubysBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubys_block_ore_recipe"
+    },
+    {
+      "name": "RubysOreSmelting",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubys_ore_smelting"
+    },
+    {
+      "name": "GoldAmethystArmor",
+      "type": "armor",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GoldAmethystArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_armor_helmet_recipe"
+    },
+    {
+      "name": "GoldAmethystArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_armor_body_recipe"
+    },
+    {
+      "name": "GoldAmethystArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_armor_leggings_recipe"
+    },
+    {
+      "name": "GoldAmethystArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_amethyst_armor_boots_recipe"
+    },
+    {
+      "name": "BaseGoldArmor",
+      "type": "armor",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BaseGoldArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_armor_helmet_recipe"
+    },
+    {
+      "name": "BaseGoldArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_armor_body_recipe"
+    },
+    {
+      "name": "BaseGoldArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_armor_leggings_recipe"
+    },
+    {
+      "name": "BaseGoldArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_gold_armor_boots_recipe"
+    },
+    {
+      "name": "GoldRubyArmor",
+      "type": "armor",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GoldRubyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_armor_helmet_recipe"
+    },
+    {
+      "name": "GoldRubyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_armor_body_recipe"
+    },
+    {
+      "name": "GoldRubyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_armor_leggings_recipe"
+    },
+    {
+      "name": "GoldRubyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_armor_boots_recipe"
+    },
+    {
+      "name": "GoldRubyPickaxe",
+      "type": "tool",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_pickaxe"
+    },
+    {
+      "name": "GoldRubyAxe",
+      "type": "tool",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_axe"
+    },
+    {
+      "name": "GoldRubySword",
+      "type": "tool",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_sword"
+    },
+    {
+      "name": "GoldRubyShovel",
+      "type": "tool",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_shovel"
+    },
+    {
+      "name": "GoldRubyHoe",
+      "type": "tool",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_hoe"
+    },
+    {
+      "name": "GoldRubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_pickaxe_recipe"
+    },
+    {
+      "name": "GoldRubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_axe_recipe"
+    },
+    {
+      "name": "GoldRubySwordRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_sword_recipe"
+    },
+    {
+      "name": "GoldRubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_shovel_recipe"
+    },
+    {
+      "name": "GoldRubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_ruby_hoe_recipe"
+    },
+    {
+      "name": "ShaleRuby",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_ruby"
+    },
+    {
+      "name": "ShaleAmythest",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_amythest"
+    },
+    {
+      "name": "ShaleUranium",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_uranium"
+    },
+    {
+      "name": "EnergyOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Energy",
+      "type": "potion",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy"
+    },
+    {
+      "name": "LavaCakeFoodEaten",
+      "type": "procedure",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cake_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaCake",
+      "type": "food",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cake"
+    },
+    {
+      "name": "Mire",
+      "type": "fluid",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mire"
+    },
+    {
+      "name": "ChocolateFoodEaten",
+      "type": "procedure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chocolate",
+      "type": "food",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate"
+    },
+    {
+      "name": "ChocolateR",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_r"
+    },
+    {
+      "name": "LavaCakeR",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cake_r"
+    },
+    {
+      "name": "Corporea",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea"
+    },
+    {
+      "name": "CorporeaBrick",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_brick"
+    },
+    {
+      "name": "CorporeaStair",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_stair"
+    },
+    {
+      "name": "CorporeaSlab",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_slab"
+    },
+    {
+      "name": "CorporeaWall",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_wall"
+    },
+    {
+      "name": "ChiseledCorporea",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporea"
+    },
+    {
+      "name": "ChiseledCorporea0",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporea_0"
+    },
+    {
+      "name": "ChiseledCorporia1",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporia_1"
+    },
+    {
+      "name": "ChiseledCorporia2",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporia_2"
+    },
+    {
+      "name": "CorporeaBrickR",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_brick_r"
+    },
+    {
+      "name": "CorporiaR",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporia_r"
+    },
+    {
+      "name": "CorporiaStair",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporia_stair"
+    },
+    {
+      "name": "CorporeaSlabR",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_slab_r"
+    },
+    {
+      "name": "CorporeaWallR",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corporea_wall_r"
+    },
+    {
+      "name": "ChiseledCorporeaR",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporea_r"
+    },
+    {
+      "name": "ChiseledCorporia",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporia"
+    },
+    {
+      "name": "ChiseledCorporiaR",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporia_r"
+    },
+    {
+      "name": "ChiseledCorporea1",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_corporea_1"
+    },
+    {
+      "name": "GlowingMushroom",
+      "type": "plant",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_mushroom"
+    },
+    {
+      "name": "GlowingMushroomClump",
+      "type": "plant",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_mushroom_clump"
+    },
+    {
+      "name": "MagmaMushroom",
+      "type": "plant",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_mushroom"
+    },
+    {
+      "name": "MagmaMushroomClump",
+      "type": "plant",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_mushroom_clump"
+    },
+    {
+      "name": "RefinedRuby",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_ruby"
+    },
+    {
+      "name": "RefinedAmethyst",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_amethyst"
+    },
+    {
+      "name": "RefiningTable",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refining_table"
+    },
+    {
+      "name": "Rfining",
+      "type": "gui",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rfining"
+    },
+    {
+      "name": "Enderite",
+      "type": "item",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite"
+    },
+    {
+      "name": "EnderiteOre",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ore"
+    },
+    {
+      "name": "EnderiteBlock",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_block"
+    },
+    {
+      "name": "EnderiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ore_block_recipe"
+    },
+    {
+      "name": "EnderiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_block_ore_recipe"
+    },
+    {
+      "name": "EnderiteOreSmelting",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ore_smelting"
+    },
+    {
+      "name": "EnderitePickaxe",
+      "type": "tool",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_pickaxe"
+    },
+    {
+      "name": "EnderiteAxe",
+      "type": "tool",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_axe"
+    },
+    {
+      "name": "EnderiteSword",
+      "type": "tool",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_sword"
+    },
+    {
+      "name": "EnderiteShovel",
+      "type": "tool",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_shovel"
+    },
+    {
+      "name": "EnderiteHoe",
+      "type": "tool",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_hoe"
+    },
+    {
+      "name": "EnderitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_pickaxe_recipe"
+    },
+    {
+      "name": "EnderiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_axe_recipe"
+    },
+    {
+      "name": "EnderiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_sword_recipe"
+    },
+    {
+      "name": "EnderiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_shovel_recipe"
+    },
+    {
+      "name": "EnderiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_hoe_recipe"
+    },
+    {
+      "name": "EnderiteArmor",
+      "type": "armor",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_helmet_recipe"
+    },
+    {
+      "name": "EnderiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_body_recipe"
+    },
+    {
+      "name": "EnderiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_leggings_recipe"
+    },
+    {
+      "name": "EnderiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_boots_recipe"
+    },
+    {
+      "name": "EnderiteScrap",
+      "type": "item",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_scrap"
+    },
+    {
+      "name": "EnderiteIngot",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ingot"
+    },
+    {
+      "name": "LolyPop",
+      "type": "food",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loly_pop"
+    },
+    {
+      "name": "LesserTopaz",
+      "type": "item",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz"
+    },
+    {
+      "name": "LesserTopazOre",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_ore"
+    },
+    {
+      "name": "LesserTopazBlock",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_block"
+    },
+    {
+      "name": "LesserTopazOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_ore_block_recipe"
+    },
+    {
+      "name": "LesserTopazBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_block_ore_recipe"
+    },
+    {
+      "name": "LesserTopazOreSmelting",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_ore_smelting"
+    },
+    {
+      "name": "LesserTopazPickaxe",
+      "type": "tool",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_pickaxe"
+    },
+    {
+      "name": "LesserTopazAxe",
+      "type": "tool",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_axe"
+    },
+    {
+      "name": "LesserTopazSword",
+      "type": "tool",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_sword"
+    },
+    {
+      "name": "LesserTopazShovel",
+      "type": "tool",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_shovel"
+    },
+    {
+      "name": "LesserTopazPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_pickaxe_recipe"
+    },
+    {
+      "name": "LesserTopazAxeRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_axe_recipe"
+    },
+    {
+      "name": "LesserTopazSwordRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_sword_recipe"
+    },
+    {
+      "name": "LesserTopazShovelRecipe",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_shovel_recipe"
+    },
+    {
+      "name": "LesserTopazArmor",
+      "type": "armor",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LesserTopazArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_armor_helmet_recipe"
+    },
+    {
+      "name": "LesserTopazArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_armor_body_recipe"
+    },
+    {
+      "name": "LesserTopazArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_armor_leggings_recipe"
+    },
+    {
+      "name": "LesserTopazArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lesser_topaz_armor_boots_recipe"
+    },
+    {
+      "name": "WorkerPenguin",
+      "type": "mob",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "worker_penguin"
+    },
+    {
+      "name": "RfiningWhileThisGUIIsOpenTick",
+      "type": "procedure",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rfining_while_this_gui_is_open_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RefinedLesserTopaz",
+      "type": "item",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_lesser_topaz"
+    },
+    {
+      "name": "RefiningTableR",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refining_table_r"
+    },
+    {
+      "name": "CritbringerPart1",
+      "type": "item",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_part_1"
+    },
+    {
+      "name": "CritbringerPart2",
+      "type": "item",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_part_2"
+    },
+    {
+      "name": "CritbringerPart3",
+      "type": "item",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_part_3"
+    },
+    {
+      "name": "Critbringer",
+      "type": "tool",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer"
+    },
+    {
+      "name": "GlowingMushroomAdditionalGenerationCondition",
+      "type": "procedure",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_mushroom_additional_generation_condition",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "y",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Admant",
+      "type": "item",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admant"
+    },
+    {
+      "name": "AdmantOre",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admant_ore"
+    },
+    {
+      "name": "AdmantBlock",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admant_block"
+    },
+    {
+      "name": "AdmantOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admant_ore_block_recipe"
+    },
+    {
+      "name": "AdmantBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admant_block_ore_recipe"
+    },
+    {
+      "name": "AdmantOreSmelting",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admant_ore_smelting"
+    },
+    {
+      "name": "CritbringerPart1R",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_part_1_r"
+    },
+    {
+      "name": "CritbringerPart2R",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_part_2_r"
+    },
+    {
+      "name": "CritbringerBlade",
+      "type": "item",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_blade"
+    },
+    {
+      "name": "CritbringerPart3R",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_part_3_r"
+    },
+    {
+      "name": "CritbringerBladeR",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "critbringer_blade_r"
+    },
+    {
+      "name": "MonsterDnaCombined",
+      "type": "item",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monster_dna_combined"
+    },
+    {
+      "name": "PenguinFeather",
+      "type": "item",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "penguin_feather"
+    },
+    {
+      "name": "LolyPopR",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loly_pop_r"
+    },
+    {
+      "name": "ExoticLeather",
+      "type": "item",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "exotic_leather"
+    },
+    {
+      "name": "Club",
+      "type": "tool",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "club"
+    },
+    {
+      "name": "CaveMan",
+      "type": "mob",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cave_man"
+    },
+    {
+      "name": "ClubR",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "club_r"
+    },
+    {
+      "name": "ExoticArmor",
+      "type": "armor",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "exotic_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ExoticArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "exotic_armor_helmet_recipe"
+    },
+    {
+      "name": "ExoticArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "exotic_armor_body_recipe"
+    },
+    {
+      "name": "ExoticArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "exotic_armor_leggings_recipe"
+    },
+    {
+      "name": "ExoticArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "exotic_armor_boots_recipe"
+    },
+    {
+      "name": "CaveManNaturalEntitySpawningCondition",
+      "type": "procedure",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cave_man_natural_entity_spawning_condition",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MammothMeat",
+      "type": "food",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mammoth_meat"
+    },
+    {
+      "name": "CookedMammothMeat",
+      "type": "food",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_mammoth_meat"
+    },
+    {
+      "name": "CaveMammothItIsStruckByLightning",
+      "type": "procedure",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cave_mammoth_it_is_struck_by_lightning",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CaveMammoth",
+      "type": "mob",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cave_mammoth"
+    },
+    {
+      "name": "CaveMamoth",
+      "type": "loottable",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cave_mamoth"
+    },
+    {
+      "name": "CrystalOfDeath",
+      "type": "item",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_of_death"
+    },
+    {
+      "name": "Wraith",
+      "type": "mob",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wraith"
+    },
+    {
+      "name": "MonsterDNAcombine",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monster_dn_acombine"
+    },
+    {
+      "name": "WraithSpawnerRedstoneOn",
+      "type": "procedure",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wraith_spawner_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WraithSpawner",
+      "type": "block",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wraith_spawner"
+    },
+    {
+      "name": "Enchant",
+      "type": "procedure",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchant",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Goblin",
+      "type": "mob",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goblin"
+    },
+    {
+      "name": "JigsawChest",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jigsaw_chest"
+    },
+    {
+      "name": "Mineshaft",
+      "type": "loottable",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mineshaft"
+    },
+    {
+      "name": "Jungletempledispenser",
+      "type": "loottable",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungletempledispenser"
+    },
+    {
+      "name": "Jungletemple",
+      "type": "loottable",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungletemple"
+    },
+    {
+      "name": "Admantdust",
+      "type": "item",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admantdust"
+    },
+    {
+      "name": "Admantdusts",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admantdusts"
+    },
+    {
+      "name": "Boom",
+      "type": "enchantment",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boom",
+      "path": "~/new"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.the_underground_update.shale_emerald": "Shale Emerald",
+      "item.the_underground_update.gold_amethyst_hoe": "GoldAmethyst Hoe",
+      "block.the_underground_update.uranium_ore": "Uranium Ore",
+      "item.the_underground_update.base_gold_hoe": "BaseGold Hoe",
+      "block.the_underground_update.nether_gold": "Nether Gold",
+      "item.the_underground_update.cave_mammoth_spawn_egg": "Cave Mammoth Spawn Egg",
+      "block.the_underground_update.admant_block": "Block of Admant",
+      "item.the_underground_update.mammoth_meat": "Mammoth Meat",
+      "item.the_underground_update.gold_ruby_pickaxe": "GoldRuby Pickaxe",
+      "block.the_underground_update.rubys_block": "Block of Rubys",
+      "item.the_underground_update.malachite_shard": "Malachite Shard",
+      "item.the_underground_update.gold_amethyst_armor_boots": "GoldAmethyst Boots",
+      "item.the_underground_update.lava_cake": "Lava Cake",
+      "block.the_underground_update.lesser_topaz_block": "Block of LesserTopaz",
+      "block.the_underground_update.nuclear_bomb": "Nuclear Bomb",
+      "block.the_underground_update.shale_uranium": "Shale Uranium",
+      "item.the_underground_update.enderite": "Enderite",
+      "item.the_underground_update.lesser_topaz": "LesserTopaz",
+      "item.the_underground_update.gold_ruby_hoe": "GoldRuby Hoe",
+      "item.the_underground_update.club": "Club",
+      "item.the_underground_update.critbringer": "Critbringer",
+      "item.the_underground_update.lesser_topaz_armor_chestplate": "LesserTopaz Chestplate",
+      "block.the_underground_update.shale_bricks": "Shale Bricks",
+      "item.the_underground_update.enderite_hoe": "Enderite Hoe",
+      "item.the_underground_update.refined_amethyst": "Refined Amethyst",
+      "item.the_underground_update.exotic_armor_chestplate": "Exotic Chestplate",
+      "block.the_underground_update.glowing_mushroom_clump": "Glowing Mushroom Clump",
+      "block.the_underground_update.chiseled_corporea": "chiseled Corporea",
+      "item.the_underground_update.gold_amethyst_sword": "GoldAmethyst Sword",
+      "item.the_underground_update.refined_ruby": "Refined Ruby",
+      "item.the_underground_update.mallachite_shovel": "Mallachite Shovel",
+      "item.the_underground_update.gold_ruby_armor_helmet": "GoldRuby Helmet",
+      "block.the_underground_update.chiseled_corporia_1": "chiseled Corporea",
+      "item.the_underground_update.lesser_topaz_pickaxe": "LesserTopaz Pickaxe",
+      "block.the_underground_update.chiseled_corporia_2": "chiseled Corporea",
+      "block.the_underground_update.magma_mushroom_clump": "Magma Mushroom Clump",
+      "item.the_underground_update.gold_amethyst_pickaxe": "GoldAmethyst Pickaxe",
+      "block.the_underground_update.chiseled_shale": "Chiseled Shale",
+      "item.the_underground_update.critbringer_blade": "Critbringer Blade",
+      "block.the_underground_update.shale_stairs": "Shale Stairs",
+      "block.the_underground_update.shale_iron": "Shale Iron",
+      "block.the_underground_update.refining_table": "Refining Table",
+      "item.minecraft.lingering_potion.effect.energy": "Lingering Energy",
+      "item.the_underground_update.exotic_leather": "Exotic Leather",
+      "block.the_underground_update.shale_ruby": "Shale Ruby",
+      "entity.the_underground_update.cave_man": "Cave Man",
+      "entity.the_underground_update.worker_penguin": "Worker Penguin",
+      "item.the_underground_update.gold_ruby_axe": "GoldRuby Axe",
+      "item.the_underground_update.enderite_armor_boots": "Enderite Boots",
+      "item.the_underground_update.exotic_armor_helmet": "Exotic Helmet",
+      "item.the_underground_update.monster_dna_combined": "Monster Dna Combined",
+      "item.the_underground_update.critbringer_part_3": "death in Critbringer",
+      "item.the_underground_update.critbringer_part_2": "Critbringer tech",
+      "item.the_underground_update.critbringer_part_1": "Critbringer technic heart",
+      "block.the_underground_update.admant_ore": "Admant Ore",
+      "item.the_underground_update.enderite_scrap": "Enderite Scrap",
+      "item.the_underground_update.enderite_armor_leggings": "Enderite Leggings",
+      "block.the_underground_update.corporea_brick": "Corporea brick",
+      "item.the_underground_update.goblin_spawn_egg": "Goblin Spawn Egg",
+      "item.the_underground_update.loly_pop": "Loly Pop",
+      "item.the_underground_update.gold_amethyst_armor_chestplate": "GoldAmethyst Chestplate",
+      "item.the_underground_update.gold_amethyst_armor_leggings": "GoldAmethyst Leggings",
+      "entity.the_underground_update.wraith": "Wraith",
+      "item.the_underground_update.base_gold_pickaxe": "Base Gold Pickaxe",
+      "block.the_underground_update.corporea_slab": "Corporea slab",
+      "item.minecraft.splash_potion.effect.energy": "Splash Energy",
+      "item.the_underground_update.lesser_topaz_armor_helmet": "LesserTopaz Helmet",
+      "block.the_underground_update.shale_wall": "Shale Wall",
+      "item.the_underground_update.rubys": "Rubys",
+      "item.the_underground_update.base_gold_armor_helmet": "BaseGold Helmet",
+      "item.the_underground_update.enderite_axe": "Enderite Axe",
+      "block.the_underground_update.magma_mushroom": "Magma Mushroom",
+      "item.the_underground_update.enderite_armor_chestplate": "Enderite Chestplate",
+      "block.the_underground_update.enderite_ore": "Enderite Ore",
+      "item.the_underground_update.gold_amethyst_shovel": "GoldAmethyst Shovel",
+      "item.the_underground_update.mallachite_axe": "Mallachite Axe",
+      "effect.energy": "Energy",
+      "item.the_underground_update.admant": "Admant",
+      "item.the_underground_update.mallachite_armor_leggings": "Mallachite Leggings",
+      "block.the_underground_update.rubys_ore": "Rubys Ore",
+      "item.the_underground_update.gold_ruby_armor_chestplate": "GoldRuby Chestplate",
+      "item.the_underground_update.amethyst": "Amethyst",
+      "item.the_underground_update.lesser_topaz_shovel": "LesserTopaz Shovel",
+      "block.the_underground_update.mallachite_ore": "Mallachite Ore",
+      "entity.the_underground_update.goblin": "Goblin",
+      "item.the_underground_update.enderite_armor_helmet": "Enderite Helmet",
+      "item.the_underground_update.mallachite_pickaxe": "Mallachite Pickaxe",
+      "item.the_underground_update.mire_bucket": "Mire Bucket",
+      "block.the_underground_update.corporea_stair": "Corporea stairs",
+      "block.the_underground_update.glowing_mushroom": "Glowing Mushroom",
+      "block.the_underground_update.nether_iron": "Nether Iron",
+      "item.the_underground_update.mallachite_armor_chestplate": "Mallachite Chestplate",
+      "item.the_underground_update.chocolate": "Chocolate",
+      "block.the_underground_update.enderite_block": "Block of Enderite",
+      "fluid.mire": "Mire",
+      "item.the_underground_update.penguin_feather": "Penguin Feather",
+      "block.the_underground_update.shale": "Shale",
+      "block.the_underground_update.shale_amythest": "Shale Amythest",
+      "block.the_underground_update.mallachite_block": "Block of Mallachite",
+      "item.the_underground_update.worker_penguin_spawn_egg": "Worker Penguin Spawn Egg",
+      "block.the_underground_update.chiseled_corporea_0": "chiseled Corporea",
+      "item.the_underground_update.mallachite_sword": "Mallachite Sword",
+      "item.the_underground_update.lesser_topaz_armor_leggings": "LesserTopaz Leggings",
+      "block.the_underground_update.gold_mushroom": "Gold Mushroom",
+      "entity.the_underground_update.cave_mammoth": "Cave Mammoth",
+      "block.the_underground_update.nether_mallachite_ore": "NetherMallachite Ore",
+      "block.the_underground_update.shale_redstone": "Shale Redstone",
+      "block.the_underground_update.shale_coal": "Shale Coal",
+      "block.the_underground_update.corporea": "Corporea",
+      "item.the_underground_update.lesser_topaz_axe": "LesserTopaz Axe",
+      "item.the_underground_update.wraith_spawn_egg": "Wraith Spawn Egg",
+      "item.the_underground_update.gold_ruby_sword": "GoldRuby Sword",
+      "item.the_underground_update.admantdust": "Admantdust",
+      "item.the_underground_update.enderite_sword": "Enderite Sword",
+      "block.the_underground_update.amethyst_block": "Block of Amethyst",
+      "block.the_underground_update.corporea_wall": "Corporea wall",
+      "block.the_underground_update.amethyst_ore": "Amethyst Ore",
+      "item.the_underground_update.base_gold_armor_chestplate": "BaseGold Chestplate",
+      "item.the_underground_update.gold_ruby_armor_boots": "GoldRuby Boots",
+      "item.the_underground_update.gold_amethyst_armor_helmet": "GoldAmethyst Helmet",
+      "item.the_underground_update.base_gold_sword": "BaseGold Sword",
+      "item.the_underground_update.exotic_armor_leggings": "Exotic Leggings",
+      "item.the_underground_update.gold_amethyst_axe": "GoldAmethyst Axe",
+      "item.the_underground_update.cooked_mammoth_meat": "Cooked Mammoth Meat",
+      "block.the_underground_update.nether_diamond": "Nether Diamond",
+      "item.the_underground_update.enderite_pickaxe": "Enderite Pickaxe",
+      "item.the_underground_update.lesser_topaz_sword": "LesserTopaz Sword",
+      "item.the_underground_update.lesser_topaz_armor_boots": "LesserTopaz Boots",
+      "item.minecraft.tipped_arrow.effect.energy": "Arrow of Energy",
+      "item.the_underground_update.crystal_of_death": "Crystal Of Death",
+      "block.the_underground_update.uranium_block": "Block of Uranium",
+      "item.the_underground_update.base_gold_shovel": "BaseGold Shovel",
+      "item.the_underground_update.base_gold_armor_leggings": "BaseGold Leggings",
+      "block.the_underground_update.shale_diamond": "Shale Diamond",
+      "item.the_underground_update.mallachite_armor_helmet": "Mallachite Helmet",
+      "block.the_underground_update.shale_slab": "Shale Slab",
+      "item.the_underground_update.refined_lesser_topaz": "Refined Lesser Topaz",
+      "block.the_underground_update.shale_gold": "Shale Gold",
+      "block.the_underground_update.wraith_spawner": "Wraith Spawner",
+      "block.the_underground_update.shale_mallachite_ore": "ShaleMallachite Ore",
+      "item.the_underground_update.uranium_ingot": "Uranium",
+      "item.the_underground_update.base_gold_armor_boots": "BaseGold Boots",
+      "item.the_underground_update.mallachite_ingot": "Mallachite",
+      "item.the_underground_update.gold_ruby_armor_leggings": "GoldRuby Leggings",
+      "item.minecraft.potion.effect.energy": "Energy",
+      "block.the_underground_update.shale_lapis": "Shale Lapis",
+      "block.the_underground_update.lesser_topaz_ore": "LesserTopaz Ore",
+      "item.the_underground_update.gold_ruby_shovel": "GoldRuby Shovel",
+      "item.the_underground_update.enderite_shovel": "Enderite Shovel",
+      "item.the_underground_update.cave_man_spawn_egg": "Cave Man Spawn Egg",
+      "enchantment.the_underground_update.boom": "Boom",
+      "item.the_underground_update.base_gold_axe": "BaseGold Axe",
+      "block.the_underground_update.polished_shale": "Polished Shale",
+      "item.the_underground_update.mallachite_armor_boots": "Mallachite Boots",
+      "item.the_underground_update.exotic_armor_boots": "Exotic Boots",
+      "block.the_underground_update.jigsaw_chest": "Jigsaw Chest"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "new",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "the_underground_update",
+    "modName": "the underground update",
+    "version": "1.0.0",
+    "author": "Richard Shaffer, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.theundergroundupdate",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}

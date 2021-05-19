@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_underground_update:blocks/alter",
+    "up": "the_underground_update:blocks/mana_detector_powered",
+    "north": "the_underground_update:blocks/alter",
+    "east": "the_underground_update:blocks/alter",
+    "south": "the_underground_update:blocks/alter",
+    "west": "the_underground_update:blocks/alter",
+    "particle": "the_underground_update:blocks/alter"
+  }
+}

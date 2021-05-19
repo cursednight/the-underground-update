@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_underground_update:blocks/shale_redstone",
+    "up": "the_underground_update:blocks/shale_redstone",
+    "north": "the_underground_update:blocks/shale_redstone",
+    "east": "the_underground_update:blocks/shale_redstone",
+    "south": "the_underground_update:blocks/shale_redstone",
+    "west": "the_underground_update:blocks/shale_redstone",
+    "particle": "the_underground_update:blocks/shale_redstone"
+  }
+}

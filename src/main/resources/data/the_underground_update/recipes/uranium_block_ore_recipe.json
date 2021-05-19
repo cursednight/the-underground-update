@@ -1,0 +1,13 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:uranium_block"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:uranium_ingot",
+    "count": 9
+  }
+}

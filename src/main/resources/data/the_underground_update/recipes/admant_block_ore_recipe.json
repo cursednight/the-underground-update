@@ -1,0 +1,13 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:admant_block"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:admant",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the_underground_update:blocks/shale_malachite",
+    "particle": "the_underground_update:blocks/shale_malachite"
+  }
+}

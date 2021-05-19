@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_underground_update:blocks/shaleuranium",
+    "up": "the_underground_update:blocks/shaleuranium",
+    "north": "the_underground_update:blocks/shaleuranium",
+    "east": "the_underground_update:blocks/shaleuranium",
+    "south": "the_underground_update:blocks/shaleuranium",
+    "west": "the_underground_update:blocks/shaleuranium",
+    "particle": "the_underground_update:blocks/shaleuranium"
+  }
+}

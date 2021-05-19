@@ -1,0 +1,22 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:corporea"
+    },
+    "1": {
+      "item": "the_underground_update:corporea"
+    },
+    "2": {
+      "item": "the_underground_update:corporea"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:corporea_slab",
+    "count": 1
+  }
+}

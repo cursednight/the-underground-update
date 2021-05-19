@@ -1,0 +1,16 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:base_gold_armor_helmet"
+    },
+    {
+      "item": "the_underground_update:rubys"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:gold_ruby_armor_helmet",
+    "count": 1
+  }
+}

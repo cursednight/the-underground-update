@@ -1,0 +1,42 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:admant"
+    },
+    "1": {
+      "item": "the_underground_update:admant"
+    },
+    "2": {
+      "item": "the_underground_update:admant"
+    },
+    "3": {
+      "item": "the_underground_update:admant"
+    },
+    "4": {
+      "item": "the_underground_update:admant"
+    },
+    "5": {
+      "item": "the_underground_update:admant"
+    },
+    "6": {
+      "item": "the_underground_update:admant"
+    },
+    "7": {
+      "item": "the_underground_update:admant"
+    },
+    "8": {
+      "item": "the_underground_update:admant"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:admant_block",
+    "count": 1
+  }
+}

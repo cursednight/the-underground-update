@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RefinedLesserTopaz"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:LesserTopaz"
+      },
+      {
+        "value": "CUSTOM:Rubys"
+      },
+      {
+        "value": "CUSTOM:BaseGoldSword"
+      },
+      {
+        "value": "CUSTOM:MallachiteIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedAmethyst"
+      },
+      {
+        "value": "CUSTOM:MonsterDnaCombined"
+      },
+      {
+        "value": "CUSTOM:RefinedRuby"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CritbringerBlade"
+    },
+    "name": "critbringer_blade_r",
+    "namespace": "mod"
+  }
+}

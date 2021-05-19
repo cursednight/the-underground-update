@@ -1,0 +1,32 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:shale"
+    },
+    "1": {
+      "item": "the_underground_update:shale"
+    },
+    "2": {
+      "item": "the_underground_update:shale"
+    },
+    "3": {
+      "item": "the_underground_update:shale"
+    },
+    "4": {
+      "item": "the_underground_update:shale"
+    },
+    "5": {
+      "item": "the_underground_update:shale"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:shale_wall",
+    "count": 1
+  }
+}

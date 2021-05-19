@@ -1,0 +1,29 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    },
+    "1": {
+      "item": "minecraft:gold_nugget"
+    },
+    "2": {
+      "item": "minecraft:gold_nugget"
+    },
+    "3": {
+      "item": "minecraft:gold_nugget"
+    },
+    "5": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:base_gold_armor_helmet",
+    "count": 1
+  }
+}

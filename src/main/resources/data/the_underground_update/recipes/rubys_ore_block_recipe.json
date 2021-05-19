@@ -1,0 +1,42 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:rubys"
+    },
+    "1": {
+      "item": "the_underground_update:rubys"
+    },
+    "2": {
+      "item": "the_underground_update:rubys"
+    },
+    "3": {
+      "item": "the_underground_update:rubys"
+    },
+    "4": {
+      "item": "the_underground_update:rubys"
+    },
+    "5": {
+      "item": "the_underground_update:rubys"
+    },
+    "6": {
+      "item": "the_underground_update:rubys"
+    },
+    "7": {
+      "item": "the_underground_update:rubys"
+    },
+    "8": {
+      "item": "the_underground_update:rubys"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:rubys_block",
+    "count": 1
+  }
+}

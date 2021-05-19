@@ -1,0 +1,9 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "the_underground_update:corporea"
+  },
+  "result": "the_underground_update:chiseled_corporia_2"
+}

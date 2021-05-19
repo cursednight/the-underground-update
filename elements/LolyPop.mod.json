@@ -1,0 +1,29 @@
+{
+  "_fv": 17,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "itemlollipop",
+    "customModelName": "Normal",
+    "name": "Loly Pop",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 0.3,
+    "eatingSpeed": 20,
+    "resultItem": {
+      "value": "Items.STICK"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ChocolateFoodEaten"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_underground_update:lesser_topaz_ore"
+  },
+  "result": {
+    "item": "the_underground_update:lesser_topaz"
+  }
+}

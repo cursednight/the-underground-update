@@ -1,0 +1,39 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:enderite"
+    },
+    "2": {
+      "item": "the_underground_update:enderite"
+    },
+    "3": {
+      "item": "the_underground_update:enderite"
+    },
+    "4": {
+      "item": "the_underground_update:enderite"
+    },
+    "5": {
+      "item": "the_underground_update:enderite"
+    },
+    "6": {
+      "item": "the_underground_update:enderite"
+    },
+    "7": {
+      "item": "the_underground_update:enderite"
+    },
+    "8": {
+      "item": "the_underground_update:enderite"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:enderite_armor_chestplate",
+    "count": 1
+  }
+}

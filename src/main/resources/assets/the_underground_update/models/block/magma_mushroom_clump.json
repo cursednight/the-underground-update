@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_underground_update:blocks/magma_mushroom_2",
+    "particle": "the_underground_update:blocks/magma_mushroom_2"
+  }
+}

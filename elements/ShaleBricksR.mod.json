@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShaleBricks"
+    },
+    "name": "shale_bricks_r",
+    "namespace": "mod"
+  }
+}

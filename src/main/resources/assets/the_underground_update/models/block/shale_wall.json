@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "the_underground_update:blocks/shale",
+    "particle": "the_underground_update:blocks/shale"
+  }
+}

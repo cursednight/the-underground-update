@@ -1,0 +1,26 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:mallachite_ingot"
+    },
+    "2": {
+      "item": "the_underground_update:mallachite_ingot"
+    },
+    "3": {
+      "item": "the_underground_update:mallachite_ingot"
+    },
+    "5": {
+      "item": "the_underground_update:mallachite_ingot"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:mallachite_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:amethyst"
+    },
+    "1": {
+      "item": "the_underground_update:amethyst"
+    },
+    "2": {
+      "item": "the_underground_update:amethyst"
+    },
+    "3": {
+      "item": "the_underground_update:amethyst"
+    },
+    "4": {
+      "item": "the_underground_update:amethyst"
+    },
+    "5": {
+      "item": "the_underground_update:amethyst"
+    },
+    "6": {
+      "item": "the_underground_update:amethyst"
+    },
+    "7": {
+      "item": "the_underground_update:amethyst"
+    },
+    "8": {
+      "item": "the_underground_update:amethyst"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:amethyst_block",
+    "count": 1
+  }
+}

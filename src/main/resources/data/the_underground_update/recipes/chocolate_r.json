@@ -1,0 +1,19 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:chocolate",
+    "count": 1
+  }
+}

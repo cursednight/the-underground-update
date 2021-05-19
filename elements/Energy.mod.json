@@ -1,0 +1,22 @@
+{
+  "_fv": 17,
+  "_type": "potion",
+  "definition": {
+    "name": "Energy",
+    "effectName": "Energy",
+    "icon": "moon_jump.png",
+    "color": {
+      "value": -8634355,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "EnergyOnPotionActiveTick"
+    }
+  }
+}

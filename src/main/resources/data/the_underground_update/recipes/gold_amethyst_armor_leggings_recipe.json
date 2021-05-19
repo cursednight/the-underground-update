@@ -1,0 +1,16 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:base_gold_armor_leggings"
+    },
+    {
+      "item": "the_underground_update:amethyst"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:gold_amethyst_armor_leggings",
+    "count": 1
+  }
+}

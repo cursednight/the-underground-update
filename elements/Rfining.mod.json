@@ -1,0 +1,66 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 132,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow1.png",
+          "use1Xscale": true,
+          "name": "arrow1.png",
+          "x": 159,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 186,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "refining table",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "refining table",
+          "x": 132,
+          "y": 44
+        }
+      }
+    ],
+    "onTick": {
+      "name": "RfiningWhileThisGUIIsOpenTick"
+    }
+  }
+}

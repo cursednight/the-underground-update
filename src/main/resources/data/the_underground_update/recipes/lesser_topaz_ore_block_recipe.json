@@ -1,0 +1,42 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "1": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "2": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "3": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "4": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "5": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "6": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "7": {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    "8": {
+      "item": "the_underground_update:lesser_topaz"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:lesser_topaz_block",
+    "count": 1
+  }
+}

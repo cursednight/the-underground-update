@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_underground_update:block/corporea_slab"
+    },
+    "type=top": {
+      "model": "the_underground_update:block/corporea_slab_top"
+    },
+    "type=double": {
+      "model": "the_underground_update:block/corporea_slab_full"
+    }
+  }
+}

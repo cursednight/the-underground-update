@@ -1,0 +1,37 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    },
+    {
+      "item": "the_underground_update:shale"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:shale_bricks",
+    "count": 1
+  }
+}

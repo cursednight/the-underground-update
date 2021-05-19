@@ -1,0 +1,44 @@
+{
+  "group": "farm_adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "farm_adventure:upgrade_item"
+    },
+    "1": {
+      "item": "minecraft:anvil",
+      "data": 32767
+    },
+    "2": {
+      "item": "farm_adventure:upgrade_item"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "farm_adventure:citrin"
+    },
+    "5": {
+      "item": "minecraft:furnace"
+    },
+    "6": {
+      "item": "farm_adventure:upgrade_item"
+    },
+    "7": {
+      "item": "minecraft:anvil",
+      "data": 32767
+    },
+    "8": {
+      "item": "farm_adventure:upgrade_item"
+    }
+  },
+  "result": {
+    "item": "minecraft:air",
+    "count": 1
+  }
+}

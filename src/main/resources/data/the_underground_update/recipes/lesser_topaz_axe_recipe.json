@@ -1,0 +1,16 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    {
+      "item": "the_underground_update:base_gold_axe"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:lesser_topaz_axe",
+    "count": 1
+  }
+}

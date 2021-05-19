@@ -1,0 +1,22 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:malachite_shard"
+    },
+    {
+      "item": "the_underground_update:malachite_shard"
+    },
+    {
+      "item": "the_underground_update:malachite_shard"
+    },
+    {
+      "item": "the_underground_update:malachite_shard"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:mallachite_ingot",
+    "count": 1
+  }
+}

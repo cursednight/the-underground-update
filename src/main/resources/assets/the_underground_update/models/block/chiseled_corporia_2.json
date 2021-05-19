@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_underground_update:blocks/corporea_retainer_end",
+    "up": "the_underground_update:blocks/corporea_retainer_end",
+    "north": "the_underground_update:blocks/corporea_retainer_end",
+    "east": "the_underground_update:blocks/corporea_retainer_end",
+    "south": "the_underground_update:blocks/corporea_retainer_end",
+    "west": "the_underground_update:blocks/corporea_retainer_end",
+    "particle": "the_underground_update:blocks/corporea_retainer_end"
+  }
+}

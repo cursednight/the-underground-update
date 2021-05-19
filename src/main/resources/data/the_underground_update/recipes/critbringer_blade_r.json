@@ -1,0 +1,37 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_underground_update:refined_lesser_topaz"
+    },
+    {
+      "item": "the_underground_update:amethyst"
+    },
+    {
+      "item": "the_underground_update:lesser_topaz"
+    },
+    {
+      "item": "the_underground_update:rubys"
+    },
+    {
+      "item": "the_underground_update:base_gold_sword"
+    },
+    {
+      "item": "the_underground_update:mallachite_ingot"
+    },
+    {
+      "item": "the_underground_update:refined_amethyst"
+    },
+    {
+      "item": "the_underground_update:monster_dna_combined"
+    },
+    {
+      "item": "the_underground_update:refined_ruby"
+    }
+  ],
+  "result": {
+    "item": "the_underground_update:critbringer_blade",
+    "count": 1
+  }
+}

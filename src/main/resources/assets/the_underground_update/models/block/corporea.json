@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_underground_update:blocks/corporea_block",
+    "up": "the_underground_update:blocks/corporea_block",
+    "north": "the_underground_update:blocks/corporea_block",
+    "east": "the_underground_update:blocks/corporea_block",
+    "south": "the_underground_update:blocks/corporea_block",
+    "west": "the_underground_update:blocks/corporea_block",
+    "particle": "the_underground_update:blocks/corporea_block"
+  }
+}
