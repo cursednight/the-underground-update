@@ -32,7 +32,7 @@ public class EnderiteAxeItem extends TheUndergroundUpdateModElements.ModElement 
 			}
 
 			public float getAttackDamage() {
-				return 25f;
+				return 7f;
 			}
 
 			public int getHarvestLevel() {

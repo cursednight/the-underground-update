@@ -32,11 +32,11 @@ public class LesserTopazPickaxeItem extends TheUndergroundUpdateModElements.ModE
 			}
 
 			public float getAttackDamage() {
-				return 6f;
+				return 1f;
 			}
 
 			public int getHarvestLevel() {
-				return 8;
+				return 3;
 			}
 
 			public int getEnchantability() {

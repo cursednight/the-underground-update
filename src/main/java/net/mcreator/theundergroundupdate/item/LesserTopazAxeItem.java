@@ -32,11 +32,11 @@ public class LesserTopazAxeItem extends TheUndergroundUpdateModElements.ModEleme
 			}
 
 			public float getAttackDamage() {
-				return 34f;
+				return 15f;
 			}
 
 			public int getHarvestLevel() {
-				return 8;
+				return 3;
 			}
 
 			public int getEnchantability() {

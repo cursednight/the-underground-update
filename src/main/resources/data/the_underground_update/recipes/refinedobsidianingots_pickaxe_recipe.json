@@ -1,0 +1,30 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "1": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "2": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:refinedobsidianingots_pickaxe",
+    "count": 1
+  }
+}

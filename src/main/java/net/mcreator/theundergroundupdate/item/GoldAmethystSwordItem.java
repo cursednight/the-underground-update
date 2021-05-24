@@ -32,7 +32,7 @@ public class GoldAmethystSwordItem extends TheUndergroundUpdateModElements.ModEl
 			}
 
 			public float getAttackDamage() {
-				return 16f;
+				return 10f;
 			}
 
 			public int getHarvestLevel() {

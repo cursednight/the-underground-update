@@ -32,11 +32,11 @@ public class LesserTopazSwordItem extends TheUndergroundUpdateModElements.ModEle
 			}
 
 			public float getAttackDamage() {
-				return 22f;
+				return 13f;
 			}
 
 			public int getHarvestLevel() {
-				return 8;
+				return 3;
 			}
 
 			public int getEnchantability() {

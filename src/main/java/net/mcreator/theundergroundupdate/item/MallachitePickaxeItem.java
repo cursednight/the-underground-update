@@ -32,7 +32,7 @@ public class MallachitePickaxeItem extends TheUndergroundUpdateModElements.ModEl
 			}
 
 			public float getAttackDamage() {
-				return 6f;
+				return 1f;
 			}
 
 			public int getHarvestLevel() {

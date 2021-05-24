@@ -1,0 +1,39 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "2": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "3": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "4": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "5": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "6": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "7": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "8": {
+      "item": "the_underground_update:refinedobsidianingot"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:refinedobsidianingots_armor_chestplate",
+    "count": 1
+  }
+}

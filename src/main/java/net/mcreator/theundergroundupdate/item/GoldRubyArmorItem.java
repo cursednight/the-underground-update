@@ -42,7 +42,7 @@ public class GoldRubyArmorItem extends TheUndergroundUpdateModElements.ModElemen
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{8, 24, 20, 8}[slot.getIndex()];
+				return new int[]{3, 3, 5, 3}[slot.getIndex()];
 			}
 
 			@Override

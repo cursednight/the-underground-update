@@ -1,0 +1,26 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "2": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "3": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "5": {
+      "item": "the_underground_update:refinedobsidianingot"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:refinedobsidianingots_armor_boots",
+    "count": 1
+  }
+}

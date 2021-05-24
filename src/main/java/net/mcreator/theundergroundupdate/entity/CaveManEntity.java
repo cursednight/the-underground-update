@@ -65,6 +65,7 @@ import net.minecraft.client.Minecraft;
 
 import net.mcreator.theundergroundupdate.procedures.CaveManNaturalEntitySpawningConditionProcedure;
 import net.mcreator.theundergroundupdate.item.ExoticLeatherItem;
+import net.mcreator.theundergroundupdate.item.ExoticArmorItem;
 import net.mcreator.theundergroundupdate.item.ClubItem;
 import net.mcreator.theundergroundupdate.TheUndergroundUpdateModElements;
 
@@ -152,6 +153,10 @@ public class CaveManEntity extends TheUndergroundUpdateModElements.ModElement {
 			setCustomName(new StringTextComponent("ooga"));
 			setCustomNameVisible(true);
 			this.setItemStackToSlot(EquipmentSlotType.MAINHAND, new ItemStack(ClubItem.block, (int) (1)));
+			this.setItemStackToSlot(EquipmentSlotType.HEAD, new ItemStack(ExoticArmorItem.helmet, (int) (1)));
+			this.setItemStackToSlot(EquipmentSlotType.CHEST, new ItemStack(ExoticArmorItem.body, (int) (1)));
+			this.setItemStackToSlot(EquipmentSlotType.LEGS, new ItemStack(ExoticArmorItem.legs, (int) (1)));
+			this.setItemStackToSlot(EquipmentSlotType.FEET, new ItemStack(ExoticArmorItem.boots, (int) (1)));
 		}
 
 		@Override

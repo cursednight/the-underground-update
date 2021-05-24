@@ -32,7 +32,7 @@ public class GoldRubyPickaxeItem extends TheUndergroundUpdateModElements.ModElem
 			}
 
 			public float getAttackDamage() {
-				return 6f;
+				return 1f;
 			}
 
 			public int getHarvestLevel() {

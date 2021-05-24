@@ -2436,6 +2436,208 @@
       "ids": {},
       "registry_name": "boom",
       "path": "~/new"
+    },
+    {
+      "name": "Refinedobsidianingot",
+      "type": "item",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingot"
+    },
+    {
+      "name": "RefinedobsidianingotsPickaxe",
+      "type": "tool",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_pickaxe"
+    },
+    {
+      "name": "RefinedobsidianingotsAxe",
+      "type": "tool",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_axe"
+    },
+    {
+      "name": "RefinedobsidianingotsSword",
+      "type": "tool",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_sword"
+    },
+    {
+      "name": "RefinedobsidianingotsShovel",
+      "type": "tool",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_shovel"
+    },
+    {
+      "name": "RefinedobsidianingotsHoe",
+      "type": "tool",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_hoe"
+    },
+    {
+      "name": "RefinedobsidianingotsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_pickaxe_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsAxeRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_axe_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsSwordRecipe",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_sword_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsShovelRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_shovel_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsHoeRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_hoe_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsArmor",
+      "type": "armor",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RefinedobsidianingotsArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_armor_helmet_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_armor_body_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_armor_leggings_recipe"
+    },
+    {
+      "name": "RefinedobsidianingotsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinedobsidianingots_armor_boots_recipe"
+    },
+    {
+      "name": "StaffOfPower",
+      "type": "tool",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staff_of_power"
+    },
+    {
+      "name": "TrappedOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trapped_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Trapped",
+      "type": "potion",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trapped"
+    },
+    {
+      "name": "StaffOfPowerLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staff_of_power_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2446,13 +2648,15 @@
       "item.the_underground_update.gold_amethyst_hoe": "GoldAmethyst Hoe",
       "block.the_underground_update.uranium_ore": "Uranium Ore",
       "item.the_underground_update.base_gold_hoe": "BaseGold Hoe",
-      "block.the_underground_update.nether_gold": "Nether Gold",
       "item.the_underground_update.cave_mammoth_spawn_egg": "Cave Mammoth Spawn Egg",
+      "block.the_underground_update.nether_gold": "Nether Gold",
       "block.the_underground_update.admant_block": "Block of Admant",
+      "item.minecraft.splash_potion.effect.trapped": "Splash Trapped",
       "item.the_underground_update.mammoth_meat": "Mammoth Meat",
-      "item.the_underground_update.gold_ruby_pickaxe": "GoldRuby Pickaxe",
       "block.the_underground_update.rubys_block": "Block of Rubys",
+      "item.the_underground_update.gold_ruby_pickaxe": "GoldRuby Pickaxe",
       "item.the_underground_update.malachite_shard": "Malachite Shard",
+      "item.the_underground_update.refinedobsidianingots_armor_boots": "Refinedobsidianingots Boots",
       "item.the_underground_update.gold_amethyst_armor_boots": "GoldAmethyst Boots",
       "item.the_underground_update.lava_cake": "Lava Cake",
       "block.the_underground_update.lesser_topaz_block": "Block of LesserTopaz",
@@ -2475,6 +2679,7 @@
       "item.the_underground_update.mallachite_shovel": "Mallachite Shovel",
       "item.the_underground_update.gold_ruby_armor_helmet": "GoldRuby Helmet",
       "block.the_underground_update.chiseled_corporia_1": "chiseled Corporea",
+      "item.the_underground_update.refinedobsidianingots_axe": "Refinedobsidianingots Axe",
       "item.the_underground_update.lesser_topaz_pickaxe": "LesserTopaz Pickaxe",
       "block.the_underground_update.chiseled_corporia_2": "chiseled Corporea",
       "block.the_underground_update.magma_mushroom_clump": "Magma Mushroom Clump",
@@ -2482,6 +2687,7 @@
       "block.the_underground_update.chiseled_shale": "Chiseled Shale",
       "item.the_underground_update.critbringer_blade": "Critbringer Blade",
       "block.the_underground_update.shale_stairs": "Shale Stairs",
+      "item.the_underground_update.refinedobsidianingot": "Refinedobsidianingot",
       "block.the_underground_update.shale_iron": "Shale Iron",
       "block.the_underground_update.refining_table": "Refining Table",
       "item.minecraft.lingering_potion.effect.energy": "Lingering Energy",
@@ -2489,16 +2695,19 @@
       "block.the_underground_update.shale_ruby": "Shale Ruby",
       "entity.the_underground_update.cave_man": "Cave Man",
       "entity.the_underground_update.worker_penguin": "Worker Penguin",
+      "item.the_underground_update.refinedobsidianingots_sword": "Refinedobsidianingots Sword",
       "item.the_underground_update.gold_ruby_axe": "GoldRuby Axe",
       "item.the_underground_update.enderite_armor_boots": "Enderite Boots",
       "item.the_underground_update.exotic_armor_helmet": "Exotic Helmet",
       "item.the_underground_update.monster_dna_combined": "Monster Dna Combined",
       "item.the_underground_update.critbringer_part_3": "death in Critbringer",
       "item.the_underground_update.critbringer_part_2": "Critbringer tech",
+      "item.the_underground_update.refinedobsidianingots_armor_leggings": "Refinedobsidianingots Leggings",
       "item.the_underground_update.critbringer_part_1": "Critbringer technic heart",
       "block.the_underground_update.admant_ore": "Admant Ore",
       "item.the_underground_update.enderite_scrap": "Enderite Scrap",
       "item.the_underground_update.enderite_armor_leggings": "Enderite Leggings",
+      "item.the_underground_update.refinedobsidianingots_armor_helmet": "Refinedobsidianingots Helmet",
       "block.the_underground_update.corporea_brick": "Corporea brick",
       "item.the_underground_update.goblin_spawn_egg": "Goblin Spawn Egg",
       "item.the_underground_update.loly_pop": "Loly Pop",
@@ -2507,6 +2716,7 @@
       "entity.the_underground_update.wraith": "Wraith",
       "item.the_underground_update.base_gold_pickaxe": "Base Gold Pickaxe",
       "block.the_underground_update.corporea_slab": "Corporea slab",
+      "item.minecraft.tipped_arrow.effect.trapped": "Arrow of Trapped",
       "item.minecraft.splash_potion.effect.energy": "Splash Energy",
       "item.the_underground_update.lesser_topaz_armor_helmet": "LesserTopaz Helmet",
       "block.the_underground_update.shale_wall": "Shale Wall",
@@ -2516,6 +2726,7 @@
       "block.the_underground_update.magma_mushroom": "Magma Mushroom",
       "item.the_underground_update.enderite_armor_chestplate": "Enderite Chestplate",
       "block.the_underground_update.enderite_ore": "Enderite Ore",
+      "item.minecraft.lingering_potion.effect.trapped": "Lingering Trapped",
       "item.the_underground_update.gold_amethyst_shovel": "GoldAmethyst Shovel",
       "item.the_underground_update.mallachite_axe": "Mallachite Axe",
       "effect.energy": "Energy",
@@ -2528,11 +2739,15 @@
       "block.the_underground_update.mallachite_ore": "Mallachite Ore",
       "entity.the_underground_update.goblin": "Goblin",
       "item.the_underground_update.enderite_armor_helmet": "Enderite Helmet",
+      "effect.trapped": "Trapped",
       "item.the_underground_update.mallachite_pickaxe": "Mallachite Pickaxe",
+      "item.minecraft.potion.effect.trapped": "Trapped",
       "item.the_underground_update.mire_bucket": "Mire Bucket",
       "block.the_underground_update.corporea_stair": "Corporea stairs",
+      "item.the_underground_update.refinedobsidianingots_armor_chestplate": "Refinedobsidianingots Chestplate",
       "block.the_underground_update.glowing_mushroom": "Glowing Mushroom",
       "block.the_underground_update.nether_iron": "Nether Iron",
+      "item.the_underground_update.refinedobsidianingots_pickaxe": "Refinedobsidianingots Pickaxe",
       "item.the_underground_update.mallachite_armor_chestplate": "Mallachite Chestplate",
       "item.the_underground_update.chocolate": "Chocolate",
       "block.the_underground_update.enderite_block": "Block of Enderite",
@@ -2565,6 +2780,7 @@
       "item.the_underground_update.base_gold_sword": "BaseGold Sword",
       "item.the_underground_update.exotic_armor_leggings": "Exotic Leggings",
       "item.the_underground_update.gold_amethyst_axe": "GoldAmethyst Axe",
+      "item.the_underground_update.staff_of_power": "Staff Of Power",
       "item.the_underground_update.cooked_mammoth_meat": "Cooked Mammoth Meat",
       "block.the_underground_update.nether_diamond": "Nether Diamond",
       "item.the_underground_update.enderite_pickaxe": "Enderite Pickaxe",
@@ -2572,6 +2788,7 @@
       "item.the_underground_update.lesser_topaz_armor_boots": "LesserTopaz Boots",
       "item.minecraft.tipped_arrow.effect.energy": "Arrow of Energy",
       "item.the_underground_update.crystal_of_death": "Crystal Of Death",
+      "item.the_underground_update.refinedobsidianingots_hoe": "Refinedobsidianingots Hoe",
       "block.the_underground_update.uranium_block": "Block of Uranium",
       "item.the_underground_update.base_gold_shovel": "BaseGold Shovel",
       "item.the_underground_update.base_gold_armor_leggings": "BaseGold Leggings",
@@ -2589,6 +2806,7 @@
       "item.minecraft.potion.effect.energy": "Energy",
       "block.the_underground_update.shale_lapis": "Shale Lapis",
       "block.the_underground_update.lesser_topaz_ore": "LesserTopaz Ore",
+      "item.the_underground_update.refinedobsidianingots_shovel": "Refinedobsidianingots Shovel",
       "item.the_underground_update.gold_ruby_shovel": "GoldRuby Shovel",
       "item.the_underground_update.enderite_shovel": "Enderite Shovel",
       "item.the_underground_update.cave_man_spawn_egg": "Cave Man Spawn Egg",

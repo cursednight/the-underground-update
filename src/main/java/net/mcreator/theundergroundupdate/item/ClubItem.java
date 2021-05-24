@@ -25,7 +25,7 @@ public class ClubItem extends TheUndergroundUpdateModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new SwordItem(new IItemTier() {
 			public int getMaxUses() {
-				return 11;
+				return 10;
 			}
 
 			public float getEfficiency() {

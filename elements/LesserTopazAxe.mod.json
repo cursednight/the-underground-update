@@ -11,11 +11,11 @@
       "value": "TOOLS"
     },
     "toolType": "Axe",
-    "harvestLevel": 8,
+    "harvestLevel": 3,
     "efficiency": 14.0,
     "attackSpeed": 1.0,
     "enchantability": 56,
-    "damageVsEntity": 36.0,
+    "damageVsEntity": 17.0,
     "usageCount": 1741,
     "blocksAffected": [],
     "hasGlow": false,

@@ -42,7 +42,7 @@ public class GoldAmethystArmorItem extends TheUndergroundUpdateModElements.ModEl
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{6, 18, 15, 6}[slot.getIndex()];
+				return new int[]{2, 2, 4, 2}[slot.getIndex()];
 			}
 
 			@Override

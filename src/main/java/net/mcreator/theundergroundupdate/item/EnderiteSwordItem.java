@@ -32,7 +32,7 @@ public class EnderiteSwordItem extends TheUndergroundUpdateModElements.ModElemen
 			}
 
 			public float getAttackDamage() {
-				return 16f;
+				return 7f;
 			}
 
 			public int getHarvestLevel() {

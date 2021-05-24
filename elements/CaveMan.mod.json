@@ -33,16 +33,16 @@
       "value": ""
     },
     "equipmentHelmet": {
-      "value": ""
+      "value": "CUSTOM:ExoticArmor.helmet"
     },
     "equipmentBody": {
-      "value": ""
+      "value": "CUSTOM:ExoticArmor.body"
     },
     "equipmentLeggings": {
-      "value": ""
+      "value": "CUSTOM:ExoticArmor.legs"
     },
     "equipmentBoots": {
-      "value": ""
+      "value": "CUSTOM:ExoticArmor.boots"
     },
     "mobBehaviourType": "Creature",
     "mobCreatureType": "UNDEFINED",

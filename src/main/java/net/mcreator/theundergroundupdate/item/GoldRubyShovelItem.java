@@ -32,7 +32,7 @@ public class GoldRubyShovelItem extends TheUndergroundUpdateModElements.ModEleme
 			}
 
 			public float getAttackDamage() {
-				return 6f;
+				return 1f;
 			}
 
 			public int getHarvestLevel() {

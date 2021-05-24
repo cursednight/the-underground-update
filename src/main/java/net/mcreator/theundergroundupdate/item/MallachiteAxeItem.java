@@ -32,7 +32,7 @@ public class MallachiteAxeItem extends TheUndergroundUpdateModElements.ModElemen
 			}
 
 			public float getAttackDamage() {
-				return 34f;
+				return 24f;
 			}
 
 			public int getHarvestLevel() {

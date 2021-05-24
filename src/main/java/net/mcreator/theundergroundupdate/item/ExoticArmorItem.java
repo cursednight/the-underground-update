@@ -42,7 +42,7 @@ public class ExoticArmorItem extends TheUndergroundUpdateModElements.ModElement 
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{4, 12, 10, 4}[slot.getIndex()];
+				return new int[]{1, 1, 3, 1}[slot.getIndex()];
 			}
 
 			@Override

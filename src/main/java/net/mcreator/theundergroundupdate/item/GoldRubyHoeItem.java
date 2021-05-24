@@ -32,7 +32,7 @@ public class GoldRubyHoeItem extends TheUndergroundUpdateModElements.ModElement 
 			}
 
 			public float getAttackDamage() {
-				return 6f;
+				return -2f;
 			}
 
 			public int getHarvestLevel() {

@@ -1,0 +1,27 @@
+{
+  "group": "the_underground_update",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "1": {
+      "item": "the_underground_update:refinedobsidianingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_underground_update:refinedobsidianingots_hoe",
+    "count": 1
+  }
+}

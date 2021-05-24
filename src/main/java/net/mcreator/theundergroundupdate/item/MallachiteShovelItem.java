@@ -32,7 +32,7 @@ public class MallachiteShovelItem extends TheUndergroundUpdateModElements.ModEle
 			}
 
 			public float getAttackDamage() {
-				return 6f;
+				return 1f;
 			}
 
 			public int getHarvestLevel() {
